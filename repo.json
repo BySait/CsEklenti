@@ -3,6 +3,6 @@
   "description": "Yedeklenen CloudStream Eklentileri",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/plugins.json"
+    "https://raw.githubusercontent.com/BySait/cseklenti/main/plugins.json"
   ]
 }
