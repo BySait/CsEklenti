@@ -1,1428 +1,2070 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/AnimeciX.cs3",
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/AnimeElysium.cs3",
     "status": 1,
-    "version": 88,
-    "name": "AnimeciX",
-    "internalName": "AnimeciX",
+    "version": 1,
+    "name": "AnimeElysium",
+    "internalName": "AnimeElysium",
     "authors": [
-      "kraptor",
-      "ByAyzen",
-      "inatchii",
-      "JustRelaxable"
+      "kraptor"
     ],
-    "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
+    "description": "AnimeElysium eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "Anime"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 45020,
-    "fileHash": "sha256-6f6a375bc52f3abad962c5675f613e94018742e7fbb817d3f1e6c40d95db350f"
+    "fileSize": 22299
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/AnimeIzlesene.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "AnimeIzlesene",
+    "internalName": "AnimeIzlesene",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "AnimeIzlesene eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 29342
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/AnimeciX.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "AnimeciX",
+    "internalName": "AnimeciX",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "AnimeciX eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 45020
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Animeler.cs3",
     "status": 1,
-    "version": 41,
+    "version": 1,
     "name": "Animeler",
     "internalName": "Animeler",
     "authors": [
-      "kraptor",
-      "ByAyzen",
-      "kerimmkirac"
+      "kraptor"
     ],
-    "description": "HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
+    "description": "Animeler eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "Anime"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeler.pw/&size=128",
-    "apiVersion": 1,
-    "fileSize": 36045,
-    "fileHash": "sha256-b0d502b12d0fc9c6e2b103492cb77300f4add0f8493ef91c8fb67c92f05180ac"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Animely.cs3",
-    "status": 1,
-    "version": 4,
-    "name": "Animely",
-    "internalName": "Animely",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "Animely ile en sevdiğiniz animeleri Türkçe altyazılı olarak HD kalitede izleyin. Güncel sezon animeleri, klasikler ve çok daha fazlası. Hemen ücretsiz hesap oluşturun ve anime dünyasına katılın. Binlerce bölüm anime içeriğiyle sizleri bekliyor!",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
+      "Movie",
+      "TvSeries",
       "Anime",
-      "AnimeMovie",
-      "OVA"
+      "AsianDrama"
     ],
-    "iconUrl": "https://play-lh.googleusercontent.com/BIE1R3FVOpIoCPxkx3Erfuw5sVc5wVIbeHAcRuTUGesuvc1S1Cr6KYumGVbn7xABuLc=w240-h480",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 40161,
-    "fileHash": "sha256-ff272f0caeb3ae79ded86e10826ff5e89f1b61f0227a45e14d825107b3be4cb9"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/AnimPow.cs3",
-    "status": 1,
-    "version": 7,
-    "name": "AnimPow",
-    "internalName": "AnimPow",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "AnimPow da binlerce güncel animeyi reklamsız, 1080p HD kalitesinde Türkçe altyazılı olarak ücretsiz izle! Yeni üyelere 1 haftalık 4K Video Plus anime sistemi denemesi bedava.",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "Anime"
-    ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animpow.com/&size=128",
-    "apiVersion": 1,
-    "fileSize": 77372,
-    "fileHash": "sha256-57ab29e68b7e44673ece4049b15a20c064074560da56bdc4d4afac781f035275"
+    "fileSize": 36045
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Anizium.cs3",
     "status": 1,
-    "version": 25,
+    "version": 1,
     "name": "Anizium",
     "internalName": "Anizium",
     "authors": [
-      "kerimmkirac",
-      "ByAyzen"
+      "kraptor"
     ],
-    "description": "Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
+    "description": "Anizium eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "AnimeMovie",
-      "Anime"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://anizium.co/assets/images/logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 38163,
-    "fileHash": "sha256-bbf147bc9d3432fa6d9452592af6a8f5e887bcdcec21f20826c1e5e116712962"
+    "fileSize": 38163
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Anizm.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Anizm",
+    "internalName": "Anizm",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "Anizm eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 34498
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/AsyaAnimeleri.cs3",
     "status": 1,
-    "version": 24,
+    "version": 1,
     "name": "AsyaAnimeleri",
     "internalName": "AsyaAnimeleri",
     "authors": [
       "kraptor"
     ],
-    "description": "Asya Animeleri – Anime izle | Donghua izle | Animeler | Donghuantr | Türkanime | Donghua Anime, Türkçe Altyazılı Anime izle , Türkçe Anime, animeizle.",
+    "description": "AsyaAnimeleri eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "Anime"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaanimeleri.top/&size=128",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 18099,
-    "fileHash": "sha256-d3368724d6ecde99d7206d0b6bc399e6223b05e36522625585c89042380b2f9c"
+    "fileSize": 18099
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/AsyaFanatiklerim.cs3",
     "status": 1,
-    "version": 22,
+    "version": 1,
     "name": "AsyaFanatiklerim",
     "internalName": "AsyaFanatiklerim",
     "authors": [
-      "kraptor",
-      "kerimmkirac"
+      "kraptor"
     ],
-    "description": "Asya Fanatikleri, asya dizilerini izleme imkanı sunar. Kore dizileri izle, asyafanatikleri kore dizileri, tayvan dizileri izle, çin dizileri izle, anime izle.",
+    "description": "AsyaFanatiklerim eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
       "AsianDrama"
     ],
-    "iconUrl": "https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 18404,
-    "fileHash": "sha256-2999b8f8bac4e7aefa9b8f4fed536856378a284a90d2aeb22db271dfc6fa667a"
+    "fileSize": 18404
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/AsyaFilmIzlesene.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "AsyaFilmIzlesene",
+    "internalName": "AsyaFilmIzlesene",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "AsyaFilmIzlesene eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 16288
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/AsyaKing.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "AsyaKing",
+    "internalName": "AsyaKing",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "AsyaKing eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 17880
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/AsyaMinik.cs3",
     "status": 1,
-    "version": 16,
+    "version": 1,
     "name": "AsyaMinik",
     "internalName": "AsyaMinik",
     "authors": [
       "kraptor"
     ],
-    "description": "Asyaminik - En Güncel Asya Dizileri Burada!",
+    "description": "AsyaMinik eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
       "AsianDrama"
     ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 18681,
-    "fileHash": "sha256-a0f480c764632ef17a1a7fa5c9c7ff4f8489c53aa7f3b6b38c5032b831663af1"
+    "fileSize": 18681
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/AsyaWatch.cs3",
     "status": 1,
-    "version": 41,
+    "version": 1,
     "name": "AsyaWatch",
     "internalName": "AsyaWatch",
     "authors": [
-      "kerimmkirac"
+      "kraptor"
     ],
-    "description": "Kore, Çin ve Japon dizilerini tek tıkla HD ve Türkçe altyazılı izle. En güncel Asya dizileri, unutulmaz Asya filmleri ve web dramalar seni bekliyor.",
+    "description": "AsyaWatch eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
       "AsianDrama"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=asyawatch.com",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 63974,
-    "fileHash": "sha256-a62e269d0b66ccff7854a681be97b8994a5b4bced80630fb13ee6d218df0fc96"
+    "fileSize": 63974
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Atv.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Atv",
+    "internalName": "Atv",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "Atv eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 28086
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/BelgeselX.cs3",
     "status": 1,
-    "version": 41,
+    "version": 1,
     "name": "BelgeselX",
     "internalName": "BelgeselX",
     "authors": [
-      "kraptor",
-      "ByAyzen"
+      "kraptor"
     ],
-    "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+    "description": "BelgeselX eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "Documentary"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=belgeselx.com",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 26223,
-    "fileHash": "sha256-51bcc4fc26250f1e16be1ae8e2caeea2dfd37b1ba73cb10c57b70a849bf7a926"
+    "fileSize": 26223
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/BirAsyaDizi.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "BirAsyaDizi",
+    "internalName": "BirAsyaDizi",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "BirAsyaDizi eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 16912
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/CizgiMax.cs3",
     "status": 1,
-    "version": 36,
+    "version": 1,
     "name": "CizgiMax",
     "internalName": "CizgiMax",
     "authors": [
-      "kraptor",
-      "ByAyzen"
+      "kraptor"
     ],
-    "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
+    "description": "CizgiMax eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "Cartoon"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgimax.online",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 31035,
-    "fileHash": "sha256-a541e63ac441a4b796b62b34300e78543736916d5810e92cbb27a4134db709f5"
+    "fileSize": 31035
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/CizgiveDizi.cs3",
     "status": 1,
-    "version": 50,
+    "version": 1,
     "name": "CizgiveDizi",
     "internalName": "CizgiveDizi",
     "authors": [
-      "kraptor",
-      "ByAyzen"
+      "kraptor"
     ],
-    "description": "Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
+    "description": "CizgiveDizi eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "Cartoon"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgivedizi.com",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 36746,
-    "fileHash": "sha256-54e8b1e4e6c8a7b711878725d3b0f3e7806cbdcaf63d81224b25fe0c5c949594"
+    "fileSize": 36746
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Ddizi.cs3",
     "status": 1,
-    "version": 19,
+    "version": 1,
     "name": "Ddizi",
     "internalName": "Ddizi",
     "authors": [
       "kraptor"
     ],
-    "description": "Ddizi, dizi izle, dizi seyret, yerli dizi izle, canlı dizi, türk dizi izle, dizi izle full, diziizle, eski diziler.",
+    "description": "Ddizi eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "TvSeries"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://www.ddizi.im/images/logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 20992,
-    "fileHash": "sha256-ed0df794090f04d7e883423f5c3c074572a36fb2e5149e279ce6e4f3f3bf98e6"
+    "fileSize": 20992
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziAsia.cs3",
     "status": 1,
-    "version": 20,
+    "version": 1,
     "name": "DiziAsia",
     "internalName": "DiziAsia",
     "authors": [
-      "kerimmkirac"
+      "kraptor"
     ],
-    "description": "DiziAsia - Asya Dizileri İzle",
+    "description": "DiziAsia eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
       "AsianDrama"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=diziasia.com",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 17470,
-    "fileHash": "sha256-c6565f0ade1a9605f353aeb76af6be91acb9426aa70399c1f66db7f43bd51cec"
+    "fileSize": 17470
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziAsya.cs3",
     "status": 1,
-    "version": 27,
+    "version": 1,
     "name": "DiziAsya",
     "internalName": "DiziAsya",
     "authors": [
-      "kerimmkirac"
+      "kraptor"
     ],
-    "description": "Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
+    "description": "DiziAsya eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
       "AsianDrama"
     ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 50377,
-    "fileHash": "sha256-94a32945b2abde6728ad262dbd4f04e59771e48127624bc9b4711df97a44e591"
+    "fileSize": 50377
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziBox.cs3",
     "status": 1,
-    "version": 37,
+    "version": 1,
     "name": "DiziBox",
     "internalName": "DiziBox",
     "authors": [
-      "kraptor",
-      "kerimmkirac",
-      "ByAyzen"
+      "kraptor"
     ],
-    "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.dizibox.de&size=16",
-    "apiVersion": 1,
-    "fileSize": 27612,
-    "fileHash": "sha256-1e5cc992da345382fbded4f8747ad40ace31b0a3f39a124944b03acf59df631d"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziFilmORG.cs3",
-    "status": 1,
-    "version": 22,
-    "name": "DiziFilmORG",
-    "internalName": "DiziFilmORG",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "En yeni ve popüler yerli yabancı filmleri Türkçe dublaj ve altyazılı seçeneklerle Full HD kalitede, tek parça ve kesintisiz Dizifilm.org’da izle.",
+    "description": "DiziBox eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
       "Movie",
-      "TvSeries"
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizifilm.org/dizi/breaking-bad/sezon-1/bolum-2&size=128",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 76756,
-    "fileHash": "sha256-0909b046ced602df5d59d4d469a87acb3481f68b34fb461f1828d1546a6fda6c"
+    "fileSize": 27612
   },
   {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Dizigecesi.cs3",
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziFun.cs3",
     "status": 1,
-    "version": 4,
-    "name": "Dizigecesi",
-    "internalName": "Dizigecesi",
+    "version": 1,
+    "name": "DiziFun",
+    "internalName": "DiziFun",
     "authors": [
-      "ByAyzen"
+      "kraptor"
     ],
-    "description": "Dizigecesi ile yüksek kalitede Türkçe altyazılı yabancı dizileri kesintisiz ve reklamsız izleyebilirsiniz. Yabancı dizi izle, yabancı film izle, yabancı diziler, yabancı filmler.",
+    "description": "DiziFun eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
       "Movie",
-      "TvSeries"
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizigecesi.com/tr&size=128",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 59170,
-    "fileHash": "sha256-d4bf1c4d02c4c2d04aee0182865ad93ff932b1cebb162ee5c75769caed4ff822"
+    "fileSize": 18845
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziGom.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "DiziGom",
+    "internalName": "DiziGom",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "DiziGom eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 26215
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziKorea.cs3",
     "status": 1,
-    "version": 35,
+    "version": 1,
     "name": "DiziKorea",
     "internalName": "DiziKorea",
     "authors": [
-      "Kerimmkirac",
-      "kraptor",
-      "ByAyzen"
+      "kraptor"
     ],
-    "description": "Kore Dizileri izle, Dizikorea size en yeni ve güncel romantik komedi, okul tarzında ki Kore Asya Dizilerini Full HD Türkçe Altyazılı izleme şansı verir.",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "AsianDrama"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://dizikorea.pw&size=16",
-    "apiVersion": 1,
-    "fileSize": 32604,
-    "fileHash": "sha256-f39fff220e2da974d68692fc01bd092f8ef8a29bde2a82de55aa8ce4ebf6d98b"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziLife.cs3",
-    "status": 1,
-    "version": 58,
-    "name": "DiziLife",
-    "internalName": "DiziLife",
-    "authors": [
-      "kerimmkirac",
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
+    "description": "DiziKorea eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
       "Movie",
-      "TvSeries"
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dizi18.life",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 23175,
-    "fileHash": "sha256-d12669caa930dc2d4c51ef872694ec871e342f4dc87c13ddde920cc31e73c0ee"
+    "fileSize": 32604
   },
   {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Dizilla.cs3",
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziLife.cs3",
     "status": 1,
-    "version": 111,
-    "name": "Dizilla",
-    "internalName": "Dizilla",
+    "version": 1,
+    "name": "DiziLife",
+    "internalName": "DiziLife",
     "authors": [
-      "kraptor",
-      "kerimmkirac"
+      "kraptor"
     ],
-    "description": "1080p yabancı dizi izle. Türkçe altyazılı veya dublaj seçenekleriyle 1080p çözünürlükte yabancı dizilere anında ulaş. Popüler dizileri kesintisiz izle.",
+    "description": "DiziLife eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "TvSeries"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=https://dizilla.to",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 66455,
-    "fileHash": "sha256-9a2b3eccebc3232d6383a6638f8225802de7053f0fae96eafc65170cf24f31f1"
+    "fileSize": 23175
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziMag.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "DiziMag",
+    "internalName": "DiziMag",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "DiziMag eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 35155
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziMom.cs3",
     "status": 1,
-    "version": 61,
+    "version": 1,
     "name": "DiziMom",
     "internalName": "DiziMom",
     "authors": [
       "kraptor"
     ],
-    "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dizimom.mom&size=32",
-    "apiVersion": 1,
-    "fileSize": 37598,
-    "fileHash": "sha256-a524185293091e59c7ad4ef72a21b519001e1c8e9b335e75c48acf5260321305"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziPal.cs3",
-    "status": 1,
-    "version": 89,
-    "name": "DiziPal",
-    "internalName": "DiziPal",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "En yeni dizileri güvenli ve hızlı şekilde sunar.",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal.im/&size=128",
-    "apiVersion": 1,
-    "fileSize": 29117,
-    "fileHash": "sha256-8a60b60bd4d95f7e03caa0efc33010b2388d9ef7702b2eb604ef856f387eddcd"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziPalOrijinal.cs3",
-    "status": 1,
-    "version": 45,
-    "name": "DiziPalOrijinal",
-    "internalName": "DiziPalOrijinal",
-    "authors": [
-      "kraptor",
-      "kerimmkirac",
-      "ByAyzen"
-    ],
-    "description": "DiziPal Orijinal.",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
-    "apiVersion": 1,
-    "fileSize": 71919,
-    "fileHash": "sha256-694a342b890a156e5944930e5bac3c16eefa76045c248f37ad5cfb76f7521e7c"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Dizipod.cs3",
-    "status": 1,
-    "version": 12,
-    "name": "Dizipod",
-    "internalName": "Dizipod",
-    "authors": [
-      "kraptor",
-      "ByAyzen ",
-      "kerimmkirac"
-    ],
-    "description": "Güncel diziler, son eklenen yabancı dizileri bu sayfadan takip edebilirsiniz. Son eklenen yabancı dizileri donmadan izlemek için bizi takip etmeye devam edin.",
+    "description": "DiziMom eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
       "Movie",
       "TvSeries",
+      "Anime",
       "AsianDrama"
     ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipod.com&size=128",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 79339,
-    "fileHash": "sha256-64c82bbd92dda72ea00e666e7488ae876d4f456ec5144347071e2616ae58d2c5"
+    "fileSize": 37598
   },
   {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziYo.cs3",
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziMore.cs3",
     "status": 1,
-    "version": 74,
-    "name": "DiziYo",
-    "internalName": "DiziYo",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "iconUrl": "https://i.imgur.com/zQYsL6Z.png",
-    "apiVersion": 1,
-    "fileSize": 74624,
-    "fileHash": "sha256-a7c77c1cb34ec04b0393cd7fb36381e086a8376ed1695465613aee80404277ef"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziYou.cs3",
-    "status": 1,
-    "version": 49,
-    "name": "DiziYou",
-    "internalName": "DiziYou",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.diziyou.co",
-    "apiVersion": 1,
-    "fileSize": 18835,
-    "fileHash": "sha256-05975e3a6bf0500be913f5054fb9cc4556379c0025d202473ad81b7eca319880"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DramaDizilerim.cs3",
-    "status": 1,
-    "version": 3,
-    "name": "DramaDizilerim",
-    "internalName": "DramaDizilerim",
+    "version": 1,
+    "name": "DiziMore",
+    "internalName": "DiziMore",
     "authors": [
       "kraptor"
     ],
-    "description": "Shorts formatında en popüler Kore dizileri, Çin dizileri, Asya dizileri ve drama içerikleri.",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "AsianDrama"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dramadizilerim.com",
-    "apiVersion": 1,
-    "fileSize": 23825,
-    "fileHash": "sha256-38936f72e0f14bfb61886b24747fc25584f31911b7990acda7e7e2ee179059cd"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/FilmEkseni.cs3",
-    "status": 1,
-    "version": 50,
-    "name": "FilmEkseni",
-    "internalName": "FilmEkseni",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "Film Ekseni ⚡ Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128",
-    "apiVersion": 1,
-    "fileSize": 25496,
-    "fileHash": "sha256-e74e1447aae1460618b7d55cb419f3a7437d42580ebd279ce71bc766f78c9c86"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/FilmHane.cs3",
-    "status": 1,
-    "version": 43,
-    "name": "FilmHane",
-    "internalName": "FilmHane",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE",
-    "apiVersion": 1,
-    "fileSize": 22869,
-    "fileHash": "sha256-df091d7022acba0346f85354946cd84bfd854d5c7d32bf312d839781e61292c8"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/FilmMakinesi.cs3",
-    "status": 1,
-    "version": 70,
-    "name": "FilmMakinesi",
-    "internalName": "FilmMakinesi",
-    "authors": [
-      "kraptor",
-      "usdogu",
-      "nikyokki"
-    ],
-    "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
+    "description": "DiziMore eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
       "Movie",
-      "TvSeries"
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmmakinesi.tv&size=128",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 38241,
-    "fileHash": "sha256-2d70f09c3364e6688091b87ea140bc236d57ab433ce667b263698f2ebc6e2213"
+    "fileSize": 17715
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziPal.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "DiziPal",
+    "internalName": "DiziPal",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "DiziPal eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 29117
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziPalOrijinal.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "DiziPalOrijinal",
+    "internalName": "DiziPalOrijinal",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "DiziPalOrijinal eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 71919
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziWatch.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "DiziWatch",
+    "internalName": "DiziWatch",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "DiziWatch eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 26892
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziYo.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "DiziYo",
+    "internalName": "DiziYo",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "DiziYo eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 74624
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziYou.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "DiziYou",
+    "internalName": "DiziYou",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "DiziYou eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 18835
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Dizican.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Dizican",
+    "internalName": "Dizican",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "Dizican eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 21015
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Dizilla.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Dizilla",
+    "internalName": "Dizilla",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "Dizilla eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 66455
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Dizist.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Dizist",
+    "internalName": "Dizist",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "Dizist eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 21185
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Dmax.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Dmax",
+    "internalName": "Dmax",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "Dmax eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 18105
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/FilmEkseni.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "FilmEkseni",
+    "internalName": "FilmEkseni",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "FilmEkseni eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 25496
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/FilmHane.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "FilmHane",
+    "internalName": "FilmHane",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "FilmHane eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 22869
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/FilmKutu.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "FilmKutu",
+    "internalName": "FilmKutu",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "FilmKutu eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 19909
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/FilmMakinesi.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "FilmMakinesi",
+    "internalName": "FilmMakinesi",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "FilmMakinesi eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 38241
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/FilmModu.cs3",
     "status": 1,
-    "version": 41,
+    "version": 1,
     "name": "FilmModu",
     "internalName": "FilmModu",
     "authors": [
       "kraptor"
     ],
-    "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
+    "description": "FilmModu eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmmodu.one/&size=128",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 19386,
-    "fileHash": "sha256-6ae8495934b280f9012404602816217f669f7bb5c0c996d109b83f2721fc5a47"
+    "fileSize": 19386
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Filmzal.cs3",
     "status": 1,
-    "version": 16,
+    "version": 1,
     "name": "Filmzal",
     "internalName": "Filmzal",
     "authors": [
       "kraptor"
     ],
-    "description": "Filmzal: HD Film izle, Tv-Seriallar - HD Film izle, Azerbaycanca Dublaj film izle, Türkçe Dublaj Film İzle",
+    "description": "Filmzal eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "az",
+    "language": "tr",
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmzal.me/&size=128",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 30884,
-    "fileHash": "sha256-2d7e880859f5277ac3812d9aab8d09e22036ba122b07ed86b54eab6fa0cc062c"
+    "fileSize": 30884
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/FlixHQ.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "FlixHQ",
+    "internalName": "FlixHQ",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "FlixHQ eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 52858
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/FullHDFilmizlesene.cs3",
     "status": 1,
-    "version": 72,
+    "version": 1,
     "name": "FullHDFilmizlesene",
     "internalName": "FullHDFilmizlesene",
     "authors": [
-      "kraptor",
-      "ByAyzen"
+      "kraptor"
     ],
-    "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
+    "description": "FullHDFilmizlesene eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.fullhdfilmizlesene.de",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 59619,
-    "fileHash": "sha256-d3bb78d2d5da3823c7992ec657cae9644fb84e9a85c6a5756d13040553b7ed5b"
+    "fileSize": 59619
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/FullHDIzle.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "FullHDIzle",
+    "internalName": "FullHDIzle",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "FullHDIzle eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 18127
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/GinikoCanli.cs3",
     "status": 1,
-    "version": 15,
+    "version": 1,
     "name": "GinikoCanli",
     "internalName": "GinikoCanli",
     "authors": [
       "kraptor"
     ],
-    "description": "Vpn Gerekli! Dünyanın tüm ülkelerinden ücretsiz çevrimiçi TV.",
+    "description": "GinikoCanli eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "Live"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://www.giniko.com/images/favicon.ico",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 14429,
-    "fileHash": "sha256-9172f5a1d84ca7ac9b31ffd3e1c7ea410de0f41f7dfa5ebe1af7de6ad2aeae71"
+    "fileSize": 14429
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/HDFilmCehennemi.cs3",
     "status": 1,
-    "version": 97,
+    "version": 1,
     "name": "HDFilmCehennemi",
     "internalName": "HDFilmCehennemi",
     "authors": [
       "kraptor"
     ],
-    "description": "HDFilmCehennemi - Türkiye'nin en hızlı hd film izleme sitesi. Tek ve gerçek HDFilmCehennemi sitesi.",
+    "description": "HDFilmCehennemi eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
       "Movie",
-      "TvSeries"
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=http://hdfilmcehennemi.nl",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 37881,
-    "fileHash": "sha256-4d9fca920e9c15f06918b70e9a609f103cd5f08f7277ea3bbed8e127db2f49af"
+    "fileSize": 37881
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/HDFilmDelisi.cs3",
     "status": 1,
-    "version": 18,
+    "version": 1,
     "name": "HDFilmDelisi",
     "internalName": "HDFilmDelisi",
     "authors": [
-      "ByAyzen"
+      "kraptor"
     ],
-    "description": "En yeni ve popüler filmleri Türkçe dublaj ve altyazı seçenekleriyle Full HD kalitede izleyin. Binlerce film tek tıkla sizlerle!",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hdfilmdelisi.one/&size=128",
-    "apiVersion": 1,
-    "fileSize": 27027,
-    "fileHash": "sha256-0e4ec3eeb766c14b4c99b7aeff540629dba55ff245cdd513559193416f6c7e1f"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/HDFilmizle.cs3",
-    "status": 1,
-    "version": 25,
-    "name": "HDFilmizle",
-    "internalName": "HDFilmizle",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "En yeni ve popüler filmleri 1080p kalitesinde Türkçe dublaj altyazılı izle. Aksiyon, macera, komedi, dram ve daha fazlası film izle sayfamızda.",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hdfilmizle.life/rally-caps/&size=128",
-    "apiVersion": 1,
-    "fileSize": 61436,
-    "fileHash": "sha256-72ce2862c4b8042753d3445f4063b7a9ee06d5b9e40768108579c4de34d8ccb3"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/InatBox.cs3",
-    "status": 2,
-    "version": 57,
-    "name": "InatBox",
-    "internalName": "InatBox",
-    "authors": [
-      "Eagle",
-      "kraptor",
-      "JustRelaxable"
-    ],
-    "description": "Bu eklenti düzenli güncelleme almayacaktır!",
+    "description": "HDFilmDelisi eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
       "Movie",
       "TvSeries",
-      "Live"
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 50112,
-    "fileHash": "sha256-d6eb9c168cc938aea1a126b1de600ae03362a9f91f9f45a433554f0dce790f2a"
+    "fileSize": 27027
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/HintDizi.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "HintDizi",
+    "internalName": "HintDizi",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "HintDizi eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 18762
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/InatBox.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "InatBox",
+    "internalName": "InatBox",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "InatBox eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 50112
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/JetFilmizle.cs3",
     "status": 1,
-    "version": 62,
+    "version": 1,
     "name": "JetFilmizle",
     "internalName": "JetFilmizle",
     "authors": [
-      "kraptor",
-      "ByAyzen"
+      "kraptor"
     ],
-    "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
+    "description": "JetFilmizle eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jetfilmizle.de&size=128",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 26622,
-    "fileHash": "sha256-b528ba71cf95c1f3fc8e53ddba86f8d0df523717a989b0ed662c7e7c1da5ba04"
+    "fileSize": 26622
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/KanalD.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "KanalD",
+    "internalName": "KanalD",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "KanalD eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 26236
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/KickTR.cs3",
     "status": 1,
-    "version": 17,
+    "version": 1,
     "name": "KickTR",
     "internalName": "KickTR",
     "authors": [
-      "ByAyzen",
       "kraptor"
     ],
-    "description": "Kick, canlı yayın yapılan bir platformdur. Daha gevşek kuralları ve yayıncılara daha fazla kazanç sağlamasıyla bilinir. Platform, yayıncılardan sadece %5 kesinti yapar ve bu oran diğer yayın platformlarına göre en düşük kesintilerden biridir.",
+    "description": "KickTR eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "Live"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 28171,
-    "fileHash": "sha256-f3e67ff51cb428d888820a379486c62782fe0bde8df7362769c2422e422bdad3"
+    "fileSize": 28171
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/KoreanTurk.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "KoreanTurk",
+    "internalName": "KoreanTurk",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "KoreanTurk eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 19760
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/KraptorPlus.cs3",
     "status": 1,
-    "version": 86,
+    "version": 1,
     "name": "KraptorPlus",
     "internalName": "KraptorPlus",
     "authors": [
-      "kraptor",
-      "Phisher98",
-      "ByAyzen",
-      "Megix"
+      "kraptor"
     ],
-    "description": "Bir çok sitenin birleştiği toplama eklenti.",
+    "description": "KraptorPlus eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "TvSeries",
       "Movie",
+      "TvSeries",
       "Anime",
-      "Cartoon",
-      "AsianDrama",
-      "AnimeMovie"
+      "AsianDrama"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 326665,
-    "fileHash": "sha256-968e57218410143bab76a6394fd6dda563c08c18927ad14ef907f3320264c79d"
+    "fileSize": 326665
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/KultFilmler.cs3",
     "status": 1,
-    "version": 31,
+    "version": 1,
     "name": "KultFilmler",
     "internalName": "KultFilmler",
     "authors": [
       "kraptor"
     ],
-    "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kultfilmler.net&size=32",
-    "apiVersion": 1,
-    "fileSize": 28138,
-    "fileHash": "sha256-65672178388471101ffa664b8c1885fa89c63c546bdee0142506923bac5330d5"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/MirrorVerse.cs3",
-    "status": 1,
-    "version": 38,
-    "name": "MirrorVerse",
-    "internalName": "MirrorVerse",
-    "authors": [
-      "kraptor",
-      "NivinCNC",
-      "ByAyzen"
-    ],
-    "description": "Netflix, Disney+ ve Primevideo eklentileri tek bir eklentide kendisi bir eklenti degildir bu 3 eklentiyi kurar, tüm eklentilerde altyazı netflixde dublaj desteği var.",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png",
-    "apiVersion": 1,
-    "fileSize": 108910,
-    "fileHash": "sha256-d3ffb9bac2c0d7d45f6a4a36ae51efbcb6220dbe0a8ac078efcbfe7e515a04b6"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/OnePaceTr.cs3",
-    "status": 1,
-    "version": 13,
-    "name": "OnePaceTr",
-    "internalName": "OnePaceTr",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "One Pace türkçe altyazılı izleme platformu.",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "Anime"
-    ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.onepacetr.net/&size=128",
-    "apiVersion": 1,
-    "fileSize": 22084,
-    "fileHash": "sha256-f0ccd0c9c97eff8e2cceef65d8af69f3feaa4f3acc37addeb9410ce591e3a186"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/OpenAnime.cs3",
-    "status": 1,
-    "version": 28,
-    "name": "OpenAnime",
-    "internalName": "OpenAnime",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "Anime izleme deneyiminizi zenginleştiren, hızlı ve etkileyici özelliklerle donatılmış, şık bir tasarıma sahip anime platformu. Anime izleme deneyiminiz, kolaylaştırıldı.",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie"
-    ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openani.me/&size=24",
-    "apiVersion": 1,
-    "fileSize": 35344,
-    "fileHash": "sha256-04c362858f79bc6733424ffcc0de4310178f114d5e31a592c112685f09448f78"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/RareFilmm.cs3",
-    "status": 1,
-    "version": 20,
-    "name": "RareFilmm",
-    "internalName": "RareFilmm",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "The Cave of Forgotten Films",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "en",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://rarefilmm.com&size=128",
-    "apiVersion": 1,
-    "fileSize": 16129,
-    "fileHash": "sha256-0343211b7c3dc35a29660be29b67504a0910113ee528eece752d0add448edc32"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/RecTV.cs3",
-    "status": 1,
-    "version": 43,
-    "name": "RecTV",
-    "internalName": "RecTV",
-    "authors": [
-      "Eagle"
-    ],
-    "description": "RecTV,Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "Live",
-      "TvSeries"
-    ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rectvapk.cc&size=128",
-    "apiVersion": 1,
-    "fileSize": 62451,
-    "fileHash": "sha256-9852a8ae3e2d8b4c1b8ebeb050323ea6c4829a05422bf39ed41d1951e433e277"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/SeiCode.cs3",
-    "status": 1,
-    "version": 25,
-    "name": "SeiCode",
-    "internalName": "SeiCode",
-    "authors": [
-      "kraptor",
-      "ByAyzen",
-      "kerimmkirac"
-    ],
-    "description": "Seicode ile en yeni animeler keşfedin!",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "Anime"
-    ],
-    "iconUrl": "https://seicode.net/favicon.png",
-    "apiVersion": 1,
-    "fileSize": 31438,
-    "fileHash": "sha256-43550f0abcb1270005b132ab6fbd32f8f3c8ca63910d1c7c91b5b3a125df8f0b"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/SelcukFlix.cs3",
-    "status": 1,
-    "version": 49,
-    "name": "SelcukFlix",
-    "internalName": "SelcukFlix",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "description": "Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=selcukflix.com",
-    "apiVersion": 1,
-    "fileSize": 65997,
-    "fileHash": "sha256-938ad43950dea8da7bac8cb3151ff466224b48a1b30edafc6216045dacb5e5f0"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/SetFilmIzle.cs3",
-    "status": 1,
-    "version": 42,
-    "name": "SetFilmIzle",
-    "internalName": "SetFilmIzle",
-    "authors": [
-      "kraptor",
-      "kerimmkirac",
-      "ByAyzen"
-    ],
-    "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.setfilmizle.uk/&size=128",
-    "apiVersion": 1,
-    "fileSize": 35510,
-    "fileHash": "sha256-17c7c299c39ed0ae86d4b8dd7ba32c1ac7cfe55049a8f25fbff9b138c614da12"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/SezonlukDizi.cs3",
-    "status": 1,
-    "version": 40,
-    "name": "SezonlukDizi",
-    "internalName": "SezonlukDizi",
-    "authors": [
-      "kraptor",
-      "kerimmkirac"
-    ],
-    "description": "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sezonlukdizi6.com",
-    "apiVersion": 1,
-    "fileSize": 36230,
-    "fileHash": "sha256-137dd5da12f0d5652f95b0dee8e8b4353df53ebc3a7ea7860836c8bf255ca835"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/SinemaCX.cs3",
-    "status": 1,
-    "version": 35,
-    "name": "SinemaCX",
-    "internalName": "SinemaCX",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.sinema.gg/&size=128",
-    "apiVersion": 1,
-    "fileSize": 19086,
-    "fileHash": "sha256-d53c2ea64a18f94345c3565c63b60b9b2d027c53843ea63f0b272aa13072985a"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/SineWix.cs3",
-    "status": 1,
-    "version": 33,
-    "name": "SineWix",
-    "internalName": "SineWix",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
+    "description": "KultFilmler eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
       "Movie",
       "TvSeries",
       "Anime",
-      "AsianDrama",
-      "Cartoon"
+      "AsianDrama"
     ],
-    "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 39352,
-    "fileHash": "sha256-ef5f27fd529ba93eaf6f3814cca1527bfcbb238e8e947cfe07ea968c9bafd530"
+    "fileSize": 28138
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/MirrorVerse.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "MirrorVerse",
+    "internalName": "MirrorVerse",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "MirrorVerse eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 108910
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/NowTv.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "NowTv",
+    "internalName": "NowTv",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "NowTv eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 17331
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/OnePaceTr.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "OnePaceTr",
+    "internalName": "OnePaceTr",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "OnePaceTr eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 22084
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/OpenAnime.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "OpenAnime",
+    "internalName": "OpenAnime",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "OpenAnime eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 35344
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/RareFilmm.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "RareFilmm",
+    "internalName": "RareFilmm",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "RareFilmm eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 16129
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/RecTV.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "RecTV",
+    "internalName": "RecTV",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "RecTV eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 62451
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/RoketDizi.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "RoketDizi",
+    "internalName": "RoketDizi",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "RoketDizi eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 50119
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/SeiCode.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "SeiCode",
+    "internalName": "SeiCode",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "SeiCode eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 31438
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/SelcukFlix.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "SelcukFlix",
+    "internalName": "SelcukFlix",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "SelcukFlix eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 65997
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/SetFilmIzle.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "SetFilmIzle",
+    "internalName": "SetFilmIzle",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "SetFilmIzle eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 35510
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/SezonlukDizi.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "SezonlukDizi",
+    "internalName": "SezonlukDizi",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "SezonlukDizi eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 36230
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/ShowTv.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "ShowTv",
+    "internalName": "ShowTv",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "ShowTv eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 23641
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/SineWix.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "SineWix",
+    "internalName": "SineWix",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "SineWix eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 39352
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Sinefy.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Sinefy",
+    "internalName": "Sinefy",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "Sinefy eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 23021
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/SinemaCX.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "SinemaCX",
+    "internalName": "SinemaCX",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "SinemaCX eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 19086
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Sinezy.cs3",
     "status": 1,
-    "version": 40,
+    "version": 1,
     "name": "Sinezy",
     "internalName": "Sinezy",
     "authors": [
       "kraptor"
     ],
-    "description": "Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
+    "description": "Sinezy eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sinezy.fit&size=128",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 18764,
-    "fileHash": "sha256-ab845e57e699f3ce1e9a5a3fa933ff2f5a5179e4db7afc8671e6fbb316452a36"
+    "fileSize": 18764
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/StarTv.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "StarTv",
+    "internalName": "StarTv",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "StarTv eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 28477
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/TRAnimaci.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "TRAnimaci",
+    "internalName": "TRAnimaci",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "TRAnimaci eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 20847
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Teve2.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Teve2",
+    "internalName": "Teve2",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "Teve2 eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 20066
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Tlc.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Tlc",
+    "internalName": "Tlc",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "Tlc eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 17772
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/TrAnimeIzle.cs3",
     "status": 1,
-    "version": 15,
+    "version": 1,
     "name": "TrAnimeIzle",
     "internalName": "TrAnimeIzle",
     "authors": [
       "kraptor"
     ],
-    "description": "Anime izle, Anime tv, birbirinden farklı ve güzel animeleri keyifle seyredebileceğiniz Türk anime severlerin en popüler türkçe anime izleme sitesidir.",
+    "description": "TrAnimeIzle eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "Anime"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.tranimeizle.io/&size=128",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 34379,
-    "fileHash": "sha256-56a05fc2b0dad432179295debefbd0958acd72dc43dcb8fa636b9712d4bbd77c"
+    "fileSize": 34379
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/TrDiziIzle.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "TrDiziIzle",
+    "internalName": "TrDiziIzle",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "TrDiziIzle eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 23302
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Trt1.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Trt1",
+    "internalName": "Trt1",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "Trt1 eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 16944
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/TrtCocuk.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "TrtCocuk",
+    "internalName": "TrtCocuk",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "TrtCocuk eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 23281
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/TurkAnime.cs3",
     "status": 1,
-    "version": 34,
+    "version": 1,
     "name": "TurkAnime",
     "internalName": "TurkAnime",
     "authors": [
-      "kraptor",
-      "ByAyzen"
+      "kraptor"
     ],
-    "description": "Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
+    "description": "TurkAnime eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
+      "Movie",
+      "TvSeries",
       "Anime",
-      "AnimeMovie"
+      "AsianDrama"
     ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.turkanime.co&size=64",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 43245,
-    "fileHash": "sha256-da1366ced325fc27766e6889b7c6fe550e8fa52aa3fc140389aef1ee3c953066"
+    "fileSize": 43245
   },
   {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Turkdizileri.cs3",
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Tv8.cs3",
     "status": 1,
-    "version": 33,
-    "name": "Turkdizileri",
-    "internalName": "Turkdizileri",
+    "version": 1,
+    "name": "Tv8",
+    "internalName": "Tv8",
     "authors": [
-      "ByAyzen"
+      "kraptor"
     ],
-    "description": "TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleşiyor.",
+    "description": "Tv8 eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://i.imgur.com/Cff8v6J.png",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 166804,
-    "fileHash": "sha256-516a65f7709c43d4861242b5c9c82565766e4e7f989ac8dbf4c35a1e10aa4e60"
+    "fileSize": 22133
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/TvDiziler.cs3",
     "status": 1,
-    "version": 18,
+    "version": 1,
     "name": "TvDiziler",
     "internalName": "TvDiziler",
     "authors": [
       "kraptor"
     ],
-    "description": "Tv Diziler Ücretsiz yerli dizi izleme sitesi en popüler dizileri tek parça hd kalitesiyle ve reklamsız bedava olarak buradan tv dizileri izleyin.",
+    "description": "TvDiziler eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "TvSeries"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tvdiziler.cc&size=16",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 24663,
-    "fileHash": "sha256-267d63d71ca4d476446febf1d9df28edddb2eee987da087f5e7ffd9f600eb26a"
+    "fileSize": 24663
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/UgurFilm.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "UgurFilm",
+    "internalName": "UgurFilm",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "UgurFilm eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 31913
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Watch2Movies.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Watch2Movies",
+    "internalName": "Watch2Movies",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "Watch2Movies eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 42273
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/WebDramaTurkey.cs3",
     "status": 1,
-    "version": 39,
+    "version": 1,
     "name": "WebDramaTurkey",
     "internalName": "WebDramaTurkey",
     "authors": [
-      "kraptor",
-      "kerimmkirac",
-      "ByAyzen"
+      "kraptor"
     ],
-    "description": "Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
+    "description": "WebDramaTurkey eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
       "AsianDrama"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 43921,
-    "fileHash": "sha256-e8307c4d18bb93593322ed430465d8cb9cadd64e136fb1c2799f46f084715a8e"
+    "fileSize": 43921
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/WebteIzle.cs3",
-    "status": 0,
-    "version": 53,
+    "status": 1,
+    "version": 1,
     "name": "WebteIzle",
     "internalName": "WebteIzle",
     "authors": [
-      "kraptor",
-      "ByAyzen"
+      "kraptor"
     ],
-    "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
+    "description": "WebteIzle eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webteizle1.xyz&size=128",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 63345,
-    "fileHash": "sha256-347af180b41f24212ece54efddbe7dbecc8c4e8e66d9143cd4e1686b6eaf9135"
+    "fileSize": 63345
   },
   {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/WFilmizle.cs3",
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/YTS.cs3",
     "status": 1,
-    "version": 23,
-    "name": "WFilmizle",
-    "internalName": "WFilmizle",
+    "version": 1,
+    "name": "YTS",
+    "internalName": "YTS",
     "authors": [
-      "ByAyzen"
+      "kraptor"
     ],
-    "description": "Yerli ve yabancı film izle, Türkçe dublaj ve altyazı seçenekleriyle en yeni ve unutulmamış olan filmleri Full HD kalitesinde online izleyebilirsiniz.",
+    "description": "YTS eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://wfilmizle.bar&size=128",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 59836,
-    "fileHash": "sha256-9c9073f5da2421fdffa28262d3acfa153cd3bc9ebe1feba352cf4899d9025a67"
+    "fileSize": 41005
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/YabanciDizi.cs3",
     "status": 1,
-    "version": 18,
+    "version": 1,
     "name": "YabanciDizi",
     "internalName": "YabanciDizi",
     "authors": [
       "kraptor"
     ],
-    "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yabancidizi.so/&size=128",
-    "apiVersion": 1,
-    "fileSize": 32767,
-    "fileHash": "sha256-b54967c3e65f675385de6775e7fca672289533ffc22f090288730deef002f607"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/YeniKaynak.cs3",
-    "status": 1,
-    "version": 11,
-    "name": "YeniKaynak",
-    "internalName": "YeniKaynak",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "İran Sinemasının Yeni Adresi - İran Filmleri, İran Dizileri, İslami Filmler, Dini Filmler, Dini Sinema, İslami Diziler,...",
+    "description": "YabanciDizi eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
       "Movie",
-      "TvSeries"
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 17295,
-    "fileHash": "sha256-8e46142fd66138d86b4d39a1b3efb551fad5ad0b8986f5f4ae704bb26330a554"
+    "fileSize": 32767
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/YeniKaynak.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "YeniKaynak",
+    "internalName": "YeniKaynak",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "YeniKaynak eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 17295
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/YeniWatch.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "YeniWatch",
+    "internalName": "YeniWatch",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "YeniWatch eklentisi.",
+    "repositoryUrl": "https://github.com/BySait/CsEklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
+    "apiVersion": 1,
+    "fileSize": 19194
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/YesilCamTv.cs3",
     "status": 1,
-    "version": 9,
+    "version": 1,
     "name": "YesilCamTv",
     "internalName": "YesilCamTv",
     "authors": [
       "kraptor"
     ],
-    "description": "Türk sinemasının unutulmaz filmler bu adreste.",
-    "repositoryUrl": "https://github.com/BySait/CsEklenti",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yesilcamtv.com.tr&size=64",
-    "apiVersion": 1,
-    "fileSize": 19949,
-    "fileHash": "sha256-c93bf43d6ecf5cdb4bcb81d048e7c617afc59897c7702ee1c01d1f3bad60e05c"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Youtube.cs3",
-    "status": 1,
-    "version": 39,
-    "name": "Youtube",
-    "internalName": "Youtube",
-    "authors": [
-      "Eagle",
-      "ByAyzen",
-      "kraptor"
-    ],
-    "description": "Youtube",
+    "description": "YesilCamTv eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
       "Movie",
-      "Live",
-      "Music",
-      "TvSeries"
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 112138,
-    "fileHash": "sha256-277e437857d00df56c6a5d3191c00b533a3fcfed749c3d9488243fb9cdc6edd4"
+    "fileSize": 19949
   },
   {
-    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/YTS.cs3",
+    "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Youtube.cs3",
     "status": 1,
-    "version": 42,
-    "name": "YTS",
-    "internalName": "YTS",
+    "version": 1,
+    "name": "Youtube",
+    "internalName": "Youtube",
     "authors": [
-      "kraptor",
-      "Phisher98",
-      "ByAyzen"
+      "kraptor"
     ],
-    "description": "YTS Filmleri 4K Desteği Otomatik altyazı ve film açıklaması (Torrent)",
+    "description": "Youtube eklentisi.",
     "repositoryUrl": "https://github.com/BySait/CsEklenti",
     "language": "tr",
     "tvTypes": [
-      "Torrent"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
     ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128",
+    "iconUrl": "https://raw.githubusercontent.com/BySait/CsEklenti/main/icon.png",
     "apiVersion": 1,
-    "fileSize": 41005,
-    "fileHash": "sha256-b7d3f244d9664386d56d370bb26fa820ada4a16819964a1f9a8bbf98bb97915c"
+    "fileSize": 112138
   }
 ]
