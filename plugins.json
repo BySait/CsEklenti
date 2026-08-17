@@ -12,15 +12,13 @@
       "JustRelaxable"
     ],
     "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-    "fileSize": 172055,
     "repositoryUrl": "https://github.com/BySait/cseklenti",
     "language": "tr",
     "tvTypes": [
       "Anime"
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16",
-    "apiVersion": 1,
-    "fileHash": "sha256-bfcf2394b782cff98c985f1b62c78daf538d44518506e5590c1edbd5b65dad38"
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/cseklenti/main/Anizium.cs3",
@@ -33,7 +31,6 @@
       "ByAyzen"
     ],
     "description": "Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
-    "fileSize": 80371,
     "repositoryUrl": "https://github.com/BySait/cseklenti",
     "language": "tr",
     "tvTypes": [
@@ -41,8 +38,7 @@
       "Anime"
     ],
     "iconUrl": "https://anizium.co/assets/images/logo.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-8ae8ce4c9e53f6c95530d0ffb8070c8469f4c1d8ea93247f2ef28d6dc7e351fb"
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/cseklenti/main/FullHDFilmizlesene.cs3",
@@ -55,15 +51,13 @@
       "ByAyzen"
     ],
     "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-    "fileSize": 145777,
     "repositoryUrl": "https://github.com/BySait/cseklenti",
     "language": "tr",
     "tvTypes": [
       "Movie"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.fullhdfilmizlesene.de",
-    "apiVersion": 1,
-    "fileHash": "sha256-1256e6bb9d3d6ef56355441a3d2580e957a153d56abc4eaad1513bc6d95e3f31"
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/cseklenti/main/InatBox.cs3",
@@ -77,7 +71,6 @@
       "JustRelaxable"
     ],
     "description": "Bu eklenti düzenli güncelleme almayacaktır!",
-    "fileSize": 57821,
     "repositoryUrl": "https://github.com/BySait/cseklenti",
     "language": "tr",
     "tvTypes": [
@@ -86,8 +79,7 @@
       "Live"
     ],
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-e4dcc3c3d9171289dcfbebe7d43f80a8cdf4ca8f8a9b346c69c1fa2b1be193dd"
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/cseklenti/main/KraptorPlus.cs3",
@@ -102,7 +94,6 @@
       "Megix"
     ],
     "description": "Bir çok sitenin birleştiği toplama eklenti.",
-    "fileSize": 628224,
     "repositoryUrl": "https://github.com/BySait/cseklenti",
     "language": "tr",
     "tvTypes": [
@@ -114,8 +105,7 @@
       "AnimeMovie"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-13c887884db38914ddd63d92df5965f2f950ca6b15b0a4aac989a4a048f6e746"
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/cseklenti/main/SineWix.cs3",
@@ -128,7 +118,6 @@
       "ByAyzen"
     ],
     "description": "SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
-    "fileSize": 77299,
     "repositoryUrl": "https://github.com/BySait/cseklenti",
     "language": "tr",
     "tvTypes": [
@@ -139,7 +128,6 @@
       "Cartoon"
     ],
     "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
-    "apiVersion": 1,
-    "fileHash": "sha256-8155d0c87480fd1c28da228acea89a6c79c13a546a8df49cf5063a54f7922772"
+    "apiVersion": 1
   }
 ]
