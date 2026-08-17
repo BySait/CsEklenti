@@ -1,8 +1,8 @@
 {
-  "name": "Kraptor Eklenti Arşivi",
+  "name": "Sait Eklenti Arşivi",
   "description": "Yedeklenen CloudStream Eklentileri",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/BySait/cseklenti/main/plugins.json"
+    "https://raw.githubusercontent.com/BySait/CsEklenti/main/plugins.json"
   ]
 }
