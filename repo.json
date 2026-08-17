@@ -1,0 +1,8 @@
+{
+  "name": "Sait Kraptor Arşivi",
+  "description": "Yedeklenen CloudStream Eklentileri",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/plugins.json"
+  ]
+}
