@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/Anizium.808112579.cs3",
+    "url": "https://raw.githubusercontent.com/BySait/cseklenti/main/Anizium.808112579.cs3",
     "status": 1,
     "version": 25,
     "name": "Anizium",
@@ -11,7 +11,7 @@
     ],
     "description": "Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
     "fileSize": 80371,
-    "repositoryUrl": "https://github.com/mrsaitbaran-design/csyedek",
+    "repositoryUrl": "https://github.com/BySait/cseklenti",
     "language": "tr",
     "tvTypes": [
       "AnimeMovie",
@@ -20,5 +20,30 @@
     "iconUrl": "https://anizium.co/assets/images/logo.png",
     "apiVersion": 1,
     "fileHash": "sha256-8ae8ce4c9e53f6c95530d0ffb8070c8469f4c1d8ea93247f2ef28d6dc7e351fb"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/BySait/cseklenti/main/SineWix.-535861767.cs3",
+    "status": 1,
+    "version": 33,
+    "name": "SineWix",
+    "internalName": "SineWix",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "description": "SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
+    "fileSize": 77299,
+    "repositoryUrl": "https://github.com/BySait/cseklenti",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama",
+      "Cartoon"
+    ],
+    "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
+    "apiVersion": 1,
+    "fileHash": "sha256-8155d0c87480fd1c28da228acea89a6c79c13a546a8df49cf5063a54f7922772"
   }
 ]
