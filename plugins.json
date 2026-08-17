@@ -18,7 +18,9 @@
       "Anime"
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 45020,
+    "fileHash": "sha256-6f6a375bc52f3abad962c5675f613e94018742e7fbb817d3f1e6c40d95db350f"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Animeler.cs3",
@@ -38,7 +40,9 @@
       "Anime"
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeler.pw/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 36045,
+    "fileHash": "sha256-b0d502b12d0fc9c6e2b103492cb77300f4add0f8493ef91c8fb67c92f05180ac"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Animely.cs3",
@@ -59,7 +63,9 @@
       "OVA"
     ],
     "iconUrl": "https://play-lh.googleusercontent.com/BIE1R3FVOpIoCPxkx3Erfuw5sVc5wVIbeHAcRuTUGesuvc1S1Cr6KYumGVbn7xABuLc=w240-h480",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 40161,
+    "fileHash": "sha256-ff272f0caeb3ae79ded86e10826ff5e89f1b61f0227a45e14d825107b3be4cb9"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/AnimPow.cs3",
@@ -77,7 +83,9 @@
       "Anime"
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animpow.com/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 77372,
+    "fileHash": "sha256-57ab29e68b7e44673ece4049b15a20c064074560da56bdc4d4afac781f035275"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Anizium.cs3",
@@ -97,7 +105,9 @@
       "Anime"
     ],
     "iconUrl": "https://anizium.co/assets/images/logo.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 38163,
+    "fileHash": "sha256-bbf147bc9d3432fa6d9452592af6a8f5e887bcdcec21f20826c1e5e116712962"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/AsyaAnimeleri.cs3",
@@ -115,7 +125,9 @@
       "Anime"
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaanimeleri.top/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 18099,
+    "fileHash": "sha256-d3368724d6ecde99d7206d0b6bc399e6223b05e36522625585c89042380b2f9c"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/AsyaFanatiklerim.cs3",
@@ -134,7 +146,9 @@
       "AsianDrama"
     ],
     "iconUrl": "https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 18404,
+    "fileHash": "sha256-2999b8f8bac4e7aefa9b8f4fed536856378a284a90d2aeb22db271dfc6fa667a"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/AsyaMinik.cs3",
@@ -152,7 +166,9 @@
       "AsianDrama"
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 18681,
+    "fileHash": "sha256-a0f480c764632ef17a1a7fa5c9c7ff4f8489c53aa7f3b6b38c5032b831663af1"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/AsyaWatch.cs3",
@@ -170,7 +186,9 @@
       "AsianDrama"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=asyawatch.com",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 63974,
+    "fileHash": "sha256-a62e269d0b66ccff7854a681be97b8994a5b4bced80630fb13ee6d218df0fc96"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/BelgeselX.cs3",
@@ -189,7 +207,9 @@
       "Documentary"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=belgeselx.com",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 26223,
+    "fileHash": "sha256-51bcc4fc26250f1e16be1ae8e2caeea2dfd37b1ba73cb10c57b70a849bf7a926"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/CizgiMax.cs3",
@@ -208,7 +228,9 @@
       "Cartoon"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgimax.online",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 31035,
+    "fileHash": "sha256-a541e63ac441a4b796b62b34300e78543736916d5810e92cbb27a4134db709f5"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/CizgiveDizi.cs3",
@@ -227,7 +249,9 @@
       "Cartoon"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgivedizi.com",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 36746,
+    "fileHash": "sha256-54e8b1e4e6c8a7b711878725d3b0f3e7806cbdcaf63d81224b25fe0c5c949594"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Ddizi.cs3",
@@ -245,7 +269,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://www.ddizi.im/images/logo.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 20992,
+    "fileHash": "sha256-ed0df794090f04d7e883423f5c3c074572a36fb2e5149e279ce6e4f3f3bf98e6"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziAsia.cs3",
@@ -263,7 +289,9 @@
       "AsianDrama"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=diziasia.com",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 17470,
+    "fileHash": "sha256-c6565f0ade1a9605f353aeb76af6be91acb9426aa70399c1f66db7f43bd51cec"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziAsya.cs3",
@@ -281,7 +309,9 @@
       "AsianDrama"
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 50377,
+    "fileHash": "sha256-94a32945b2abde6728ad262dbd4f04e59771e48127624bc9b4711df97a44e591"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziBox.cs3",
@@ -301,7 +331,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.dizibox.de&size=16",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 27612,
+    "fileHash": "sha256-1e5cc992da345382fbded4f8747ad40ace31b0a3f39a124944b03acf59df631d"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziFilmORG.cs3",
@@ -320,7 +352,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizifilm.org/dizi/breaking-bad/sezon-1/bolum-2&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 76756,
+    "fileHash": "sha256-0909b046ced602df5d59d4d469a87acb3481f68b34fb461f1828d1546a6fda6c"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Dizigecesi.cs3",
@@ -339,7 +373,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizigecesi.com/tr&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 59170,
+    "fileHash": "sha256-d4bf1c4d02c4c2d04aee0182865ad93ff932b1cebb162ee5c75769caed4ff822"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziKorea.cs3",
@@ -359,7 +395,9 @@
       "AsianDrama"
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://dizikorea.pw&size=16",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 32604,
+    "fileHash": "sha256-f39fff220e2da974d68692fc01bd092f8ef8a29bde2a82de55aa8ce4ebf6d98b"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziLife.cs3",
@@ -380,7 +418,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dizi18.life",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 23175,
+    "fileHash": "sha256-d12669caa930dc2d4c51ef872694ec871e342f4dc87c13ddde920cc31e73c0ee"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Dizilla.cs3",
@@ -399,7 +439,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=https://dizilla.to",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 66455,
+    "fileHash": "sha256-9a2b3eccebc3232d6383a6638f8225802de7053f0fae96eafc65170cf24f31f1"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziMom.cs3",
@@ -417,7 +459,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dizimom.mom&size=32",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 37598,
+    "fileHash": "sha256-a524185293091e59c7ad4ef72a21b519001e1c8e9b335e75c48acf5260321305"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziPal.cs3",
@@ -437,7 +481,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal.im/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 29117,
+    "fileHash": "sha256-8a60b60bd4d95f7e03caa0efc33010b2388d9ef7702b2eb604ef856f387eddcd"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziPalOrijinal.cs3",
@@ -457,7 +503,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 71919,
+    "fileHash": "sha256-694a342b890a156e5944930e5bac3c16eefa76045c248f37ad5cfb76f7521e7c"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Dizipod.cs3",
@@ -479,7 +527,9 @@
       "AsianDrama"
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipod.com&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 79339,
+    "fileHash": "sha256-64c82bbd92dda72ea00e666e7488ae876d4f456ec5144347071e2616ae58d2c5"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziYo.cs3",
@@ -498,7 +548,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://i.imgur.com/zQYsL6Z.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 74624,
+    "fileHash": "sha256-a7c77c1cb34ec04b0393cd7fb36381e086a8376ed1695465613aee80404277ef"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DiziYou.cs3",
@@ -516,7 +568,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.diziyou.co",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 18835,
+    "fileHash": "sha256-05975e3a6bf0500be913f5054fb9cc4556379c0025d202473ad81b7eca319880"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/DramaDizilerim.cs3",
@@ -534,7 +588,9 @@
       "AsianDrama"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dramadizilerim.com",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 23825,
+    "fileHash": "sha256-38936f72e0f14bfb61886b24747fc25584f31911b7990acda7e7e2ee179059cd"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/FilmEkseni.cs3",
@@ -553,7 +609,9 @@
       "Movie"
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 25496,
+    "fileHash": "sha256-e74e1447aae1460618b7d55cb419f3a7437d42580ebd279ce71bc766f78c9c86"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/FilmHane.cs3",
@@ -571,7 +629,9 @@
       "Movie"
     ],
     "iconUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 22869,
+    "fileHash": "sha256-df091d7022acba0346f85354946cd84bfd854d5c7d32bf312d839781e61292c8"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/FilmMakinesi.cs3",
@@ -592,7 +652,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmmakinesi.tv&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 38241,
+    "fileHash": "sha256-2d70f09c3364e6688091b87ea140bc236d57ab433ce667b263698f2ebc6e2213"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/FilmModu.cs3",
@@ -610,7 +672,9 @@
       "Movie"
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmmodu.one/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 19386,
+    "fileHash": "sha256-6ae8495934b280f9012404602816217f669f7bb5c0c996d109b83f2721fc5a47"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Filmzal.cs3",
@@ -628,7 +692,9 @@
       "Movie"
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmzal.me/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 30884,
+    "fileHash": "sha256-2d7e880859f5277ac3812d9aab8d09e22036ba122b07ed86b54eab6fa0cc062c"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/FullHDFilmizlesene.cs3",
@@ -647,7 +713,9 @@
       "Movie"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.fullhdfilmizlesene.de",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 59619,
+    "fileHash": "sha256-d3bb78d2d5da3823c7992ec657cae9644fb84e9a85c6a5756d13040553b7ed5b"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/GinikoCanli.cs3",
@@ -665,7 +733,9 @@
       "Live"
     ],
     "iconUrl": "https://www.giniko.com/images/favicon.ico",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 14429,
+    "fileHash": "sha256-9172f5a1d84ca7ac9b31ffd3e1c7ea410de0f41f7dfa5ebe1af7de6ad2aeae71"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/HDFilmCehennemi.cs3",
@@ -684,7 +754,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=http://hdfilmcehennemi.nl",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 37881,
+    "fileHash": "sha256-4d9fca920e9c15f06918b70e9a609f103cd5f08f7277ea3bbed8e127db2f49af"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/HDFilmDelisi.cs3",
@@ -702,7 +774,9 @@
       "Movie"
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hdfilmdelisi.one/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 27027,
+    "fileHash": "sha256-0e4ec3eeb766c14b4c99b7aeff540629dba55ff245cdd513559193416f6c7e1f"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/HDFilmizle.cs3",
@@ -720,7 +794,9 @@
       "Movie"
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hdfilmizle.life/rally-caps/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 61436,
+    "fileHash": "sha256-72ce2862c4b8042753d3445f4063b7a9ee06d5b9e40768108579c4de34d8ccb3"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/InatBox.cs3",
@@ -742,7 +818,9 @@
       "Live"
     ],
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 50112,
+    "fileHash": "sha256-d6eb9c168cc938aea1a126b1de600ae03362a9f91f9f45a433554f0dce790f2a"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/JetFilmizle.cs3",
@@ -761,7 +839,9 @@
       "Movie"
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jetfilmizle.de&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 26622,
+    "fileHash": "sha256-b528ba71cf95c1f3fc8e53ddba86f8d0df523717a989b0ed662c7e7c1da5ba04"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/KickTR.cs3",
@@ -780,7 +860,9 @@
       "Live"
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 28171,
+    "fileHash": "sha256-f3e67ff51cb428d888820a379486c62782fe0bde8df7362769c2422e422bdad3"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/KraptorPlus.cs3",
@@ -806,7 +888,9 @@
       "AnimeMovie"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 326665,
+    "fileHash": "sha256-968e57218410143bab76a6394fd6dda563c08c18927ad14ef907f3320264c79d"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/KultFilmler.cs3",
@@ -825,7 +909,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kultfilmler.net&size=32",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 28138,
+    "fileHash": "sha256-65672178388471101ffa664b8c1885fa89c63c546bdee0142506923bac5330d5"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/MirrorVerse.cs3",
@@ -846,7 +932,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 108910,
+    "fileHash": "sha256-d3ffb9bac2c0d7d45f6a4a36ae51efbcb6220dbe0a8ac078efcbfe7e515a04b6"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/OnePaceTr.cs3",
@@ -864,7 +952,9 @@
       "Anime"
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.onepacetr.net/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 22084,
+    "fileHash": "sha256-f0ccd0c9c97eff8e2cceef65d8af69f3feaa4f3acc37addeb9410ce591e3a186"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/OpenAnime.cs3",
@@ -884,7 +974,9 @@
       "AnimeMovie"
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openani.me/&size=24",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 35344,
+    "fileHash": "sha256-04c362858f79bc6733424ffcc0de4310178f114d5e31a592c112685f09448f78"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/RareFilmm.cs3",
@@ -902,7 +994,9 @@
       "Movie"
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://rarefilmm.com&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 16129,
+    "fileHash": "sha256-0343211b7c3dc35a29660be29b67504a0910113ee528eece752d0add448edc32"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/RecTV.cs3",
@@ -922,7 +1016,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rectvapk.cc&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 62451,
+    "fileHash": "sha256-9852a8ae3e2d8b4c1b8ebeb050323ea6c4829a05422bf39ed41d1951e433e277"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/SeiCode.cs3",
@@ -942,7 +1038,9 @@
       "Anime"
     ],
     "iconUrl": "https://seicode.net/favicon.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 31438,
+    "fileHash": "sha256-43550f0abcb1270005b132ab6fbd32f8f3c8ca63910d1c7c91b5b3a125df8f0b"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/SelcukFlix.cs3",
@@ -961,7 +1059,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=selcukflix.com",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 65997,
+    "fileHash": "sha256-938ad43950dea8da7bac8cb3151ff466224b48a1b30edafc6216045dacb5e5f0"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/SetFilmIzle.cs3",
@@ -981,7 +1081,9 @@
       "Movie"
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.setfilmizle.uk/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 35510,
+    "fileHash": "sha256-17c7c299c39ed0ae86d4b8dd7ba32c1ac7cfe55049a8f25fbff9b138c614da12"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/SezonlukDizi.cs3",
@@ -1000,7 +1102,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sezonlukdizi6.com",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 36230,
+    "fileHash": "sha256-137dd5da12f0d5652f95b0dee8e8b4353df53ebc3a7ea7860836c8bf255ca835"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/SinemaCX.cs3",
@@ -1018,7 +1122,9 @@
       "Movie"
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.sinema.gg/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 19086,
+    "fileHash": "sha256-d53c2ea64a18f94345c3565c63b60b9b2d027c53843ea63f0b272aa13072985a"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/SineWix.cs3",
@@ -1041,7 +1147,9 @@
       "Cartoon"
     ],
     "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 39352,
+    "fileHash": "sha256-ef5f27fd529ba93eaf6f3814cca1527bfcbb238e8e947cfe07ea968c9bafd530"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Sinezy.cs3",
@@ -1059,7 +1167,9 @@
       "Movie"
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sinezy.fit&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 18764,
+    "fileHash": "sha256-ab845e57e699f3ce1e9a5a3fa933ff2f5a5179e4db7afc8671e6fbb316452a36"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/TrAnimeIzle.cs3",
@@ -1077,7 +1187,9 @@
       "Anime"
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.tranimeizle.io/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 34379,
+    "fileHash": "sha256-56a05fc2b0dad432179295debefbd0958acd72dc43dcb8fa636b9712d4bbd77c"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/TurkAnime.cs3",
@@ -1097,7 +1209,9 @@
       "AnimeMovie"
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.turkanime.co&size=64",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 43245,
+    "fileHash": "sha256-da1366ced325fc27766e6889b7c6fe550e8fa52aa3fc140389aef1ee3c953066"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Turkdizileri.cs3",
@@ -1115,7 +1229,9 @@
       "Movie"
     ],
     "iconUrl": "https://i.imgur.com/Cff8v6J.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 166804,
+    "fileHash": "sha256-516a65f7709c43d4861242b5c9c82565766e4e7f989ac8dbf4c35a1e10aa4e60"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/TvDiziler.cs3",
@@ -1133,7 +1249,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tvdiziler.cc&size=16",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 24663,
+    "fileHash": "sha256-267d63d71ca4d476446febf1d9df28edddb2eee987da087f5e7ffd9f600eb26a"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/WebDramaTurkey.cs3",
@@ -1153,7 +1271,9 @@
       "AsianDrama"
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 43921,
+    "fileHash": "sha256-e8307c4d18bb93593322ed430465d8cb9cadd64e136fb1c2799f46f084715a8e"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/WebteIzle.cs3",
@@ -1172,7 +1292,9 @@
       "Movie"
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webteizle1.xyz&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 63345,
+    "fileHash": "sha256-347af180b41f24212ece54efddbe7dbecc8c4e8e66d9143cd4e1686b6eaf9135"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/WFilmizle.cs3",
@@ -1190,7 +1312,9 @@
       "Movie"
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://wfilmizle.bar&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 59836,
+    "fileHash": "sha256-9c9073f5da2421fdffa28262d3acfa153cd3bc9ebe1feba352cf4899d9025a67"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/YabanciDizi.cs3",
@@ -1208,7 +1332,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yabancidizi.so/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 32767,
+    "fileHash": "sha256-b54967c3e65f675385de6775e7fca672289533ffc22f090288730deef002f607"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/YeniKaynak.cs3",
@@ -1228,7 +1354,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 17295,
+    "fileHash": "sha256-8e46142fd66138d86b4d39a1b3efb551fad5ad0b8986f5f4ae704bb26330a554"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/YesilCamTv.cs3",
@@ -1246,7 +1374,9 @@
       "Movie"
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yesilcamtv.com.tr&size=64",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 19949,
+    "fileHash": "sha256-c93bf43d6ecf5cdb4bcb81d048e7c617afc59897c7702ee1c01d1f3bad60e05c"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/Youtube.cs3",
@@ -1269,7 +1399,9 @@
       "TvSeries"
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 112138,
+    "fileHash": "sha256-277e437857d00df56c6a5d3191c00b533a3fcfed749c3d9488243fb9cdc6edd4"
   },
   {
     "url": "https://raw.githubusercontent.com/BySait/CsEklenti/builds/YTS.cs3",
@@ -1289,6 +1421,8 @@
       "Torrent"
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileSize": 41005,
+    "fileHash": "sha256-b7d3f244d9664386d56d370bb26fa820ada4a16819964a1f9a8bbf98bb97915c"
   }
 ]
